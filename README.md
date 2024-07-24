@@ -1,3 +1,5 @@
 # rssta.github.io
 
-Created by Robert, rssta. 
+Created by @rssta. 
+
+Visit the site at [rssta.github.io](https://rssta.github.io).
