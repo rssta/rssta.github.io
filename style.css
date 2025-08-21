@@ -1,0 +1,41 @@
+.text_format {
+	color: rgb(90, 90, 90); 
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+.small_text_format_forward {
+	color: rgb(90, 90, 90); 
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	text-indent: 28px;
+	margin-bottom: 2px;
+}
+.small_text_format {
+	color: rgb(90, 90, 90); 
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	text-indent: 20px;
+	margin-bottom: 2px;
+}
+.small_text_format_unindended {
+	color: rgb(90, 90, 90); 
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	margin-bottom: 2px;
+}
+.top_title_format {
+	color: rgb(62, 62, 62); 
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+.title_format {
+	color: rgb(72, 72, 72); 
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+.link_underline {
+text-decoration-line: underline; 
+text-decoration-style: dotted; 
+text-decoration-thickness: 2px; 
+text-decoration-color: rgb(190, 190, 190);
+}
+.link_no_underline {
+text-decoration-line: none; 
+}
+.works_item {
+margin-bottom: 25px; 
+}
